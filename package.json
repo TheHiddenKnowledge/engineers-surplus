@@ -2,7 +2,7 @@
   "name": "engineers-surplus",
   "version": "1.0.0",
   "engine": {
-    "node": "17.0.1"
+    "node": "16.15.1"
   },
   "description": "Mock Web Application",
   "main": "server.js",
